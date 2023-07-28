@@ -143,6 +143,7 @@ export default {
     'RESET_STORY_ARGS',
     'RESULT_WHATS_NEW_DATA',
     'SELECT_STORY',
+    'SEND_TELEMETRY_EVENT',
     'SET_CONFIG',
     'SET_CURRENT_STORY',
     'SET_GLOBALS',
